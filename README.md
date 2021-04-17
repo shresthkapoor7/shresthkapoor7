@@ -14,4 +14,4 @@ Hi, My name is Parth Pandey. I am a 2nd Year Student at SRM-IST pursuing my Bach
 <img src='https://github-readme-stats.vercel.app/api?username=shresthkapoor7&show_icons=true&theme=dark' width='500'>
 
 
-<p><img src="https://komarev.com/ghpvc/?username=ParthPandey2236&style=flat&color=e06c75&label=visitors"/></p>
+<p><img src="https://komarev.com/ghpvc/?username=shresthkapoor7&style=flat&color=e06c75&label=visitors"/></p>
