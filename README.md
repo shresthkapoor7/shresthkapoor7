@@ -8,8 +8,8 @@ Hi, My name is Parth Pandey. I am a 2nd Year Student at SRM-IST pursuing my Bach
 
 ## printf("\n Hello World!! 😃");
 - 💬 Ask me about anything and everything.
-- 📫 LinkedIn profile: [Parth_Pandey](https://www.linkedin.com/in/parth-pandey-b119921a7/)
-- 🔔 Instagram:- [pandey_emoji18](https://www.instagram.com/pandey_emoji18/)
+- 📫 LinkedIn profile: [Shresth Kapoor](https://www.linkedin.com/in/shresth-kapoor-7skp/)
+
 
 <img src='https://github-readme-stats.vercel.app/api?username=ParthPandey2236&show_icons=true&theme=dark' width='500'>
 
