@@ -9,7 +9,8 @@ Hi, My name is Shresth Kapoor. I am a 2nd Year Student at SRM-IST pursuing my Ba
 ## printf("\n Hello World!! 😃");
 - 💬 Ask me about anything and everything.
 - 📫 LinkedIn profile: [Shresth Kapoor](https://www.linkedin.com/in/shresth-kapoor-7skp/)
-- 👨‍💻 HackerRank: https://www.hackerrank.com/RA1911003010220 
+- 👨‍💻 HackerRank: [Shresth Kapoor](https://www.hackerrank.com/RA1911003010220)
+- 💻 CodeChef: [Shresth Kapoor](https://www.codechef.com/users/shresthkapoor7)
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=shresthkapoor7&show_icons=true&theme=dark' width='500'>
