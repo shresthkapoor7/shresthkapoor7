@@ -11,7 +11,7 @@ Hi, My name is Shresth Kapoor. I am a 2nd Year Student at SRM-IST pursuing my Ba
 - 📫 LinkedIn Profile: [C](https://www.linkedin.com/in/shresth-kapoor-7skp/)
 - 👨‍💻 Hacker Rank: [O](https://www.hackerrank.com/RA1911003010220)
 - 💻 CodeChef: [O](https://www.codechef.com/users/shresthkapoor7)
-- ⌨️ GFG: [L](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
+- ⌨️ G-F-G: [L](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
 
 
 
