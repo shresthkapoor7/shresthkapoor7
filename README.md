@@ -2,7 +2,7 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1' width='200"'>
 
 Hi, My name is Shresth Kapoor. I am a 2nd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 years old, developing android apps using Flutter.
 
