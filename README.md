@@ -14,7 +14,33 @@ Hi, My name is Shresth Kapoor. I am a 2nd Year Student at SRM-IST pursuing my Ba
 - ⌨️ GFG: [Shresth Kapoor](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=shresthkapoor7&show_icons=true&theme=dark' width='500'>
 
 
-<p><img src="https://komarev.com/ghpvc/?username=shresthkapoor7&style=flat&color=e06c75&label=visitors"/></p>
+
+## 📊 Stats:
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=shresthkapoor7&show_icons=true&theme=vision-friendly-dark&background=0d1117" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthkapoor7&layout=compact&theme=vision-friendly-dark&background=0d1117"  height="165">
+  </a>
+  <br>
+</p>
+
+  ---
+
+## 🔥 Contributions:
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=PrSi007&theme=vision-friendly-dark">
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shresthkapoor7&theme=react-dark">
+  </a>
+</p>
+
