@@ -2,22 +2,21 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1' width='350"'>
+<img align='right' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif' width='350"'>
 
-Hi, My name is Shresth Kapoor. I am a 2nd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 years old, developing android apps using Flutter.
+Hi, My name is Shresth Kapoor. I am a 3rd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 years old, developing android apps using Flutter.
 
-## printf("\n Hello World!! 😃");
-- 💬 Ask me about anything and everything.
-- 📫 LinkedIn Profile: [C](https://www.linkedin.com/in/shresth-kapoor-7skp/)
-- 👨‍💻 Hacker Rank: [O](https://www.hackerrank.com/RA1911003010220)
-- 💻 CodeChef: [O](https://www.codechef.com/users/shresthkapoor7)
+## printf("\n Hello World 😃");
+- 📫 LinkedInProfile: [C](https://www.linkedin.com/in/shresth-kapoor-7skp/)
+- 👨‍💻 HackerRank: [O](https://www.hackerrank.com/RA1911003010220)
+- 💻 LeetCode: [O](https://leetcode.com/shresthkapoor7/)
 - ⌨️ G-F-G: [L](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
 
 
 
 
 
-## 📊 Stats:
+## Stats 📈:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,7 +30,7 @@ Hi, My name is Shresth Kapoor. I am a 2nd Year Student at SRM-IST pursuing my Ba
 
   ---
 
-## 🔥 Contributions:
+## Contributions 🔥:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
