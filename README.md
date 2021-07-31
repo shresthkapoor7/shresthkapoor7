@@ -6,15 +6,14 @@
 
 Hi, My name is Shresth Kapoor. I am a 3rd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 years old, developing android apps using Flutter.
 
-## printf("\n Hello World 😃");
-- 📫 LinkedInProfile: [C](https://www.linkedin.com/in/shresth-kapoor-7skp/)
-- 👨‍💻 HackerRank: [O](https://www.hackerrank.com/RA1911003010220)
-- 💻 LeetCode: [O](https://leetcode.com/shresthkapoor7/)
-- ⌨️ G-F-G: [L](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
+## cout << "\n Hello World 😃" ;
+- 👨‍💻 HackerRank: [HR](https://www.hackerrank.com/RA1911003010220)
+- 💻 LeetCode: [LC](https://leetcode.com/shresthkapoor7/)
+- ⌨️ G-F-G: [GFG](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
 
-
-
-
+## Connect With Me 👋 
+- 📫 LinkedInProfile: [LI](https://www.linkedin.com/in/shresth-kapoor-7skp/)
+- 💬 Discord: ShresthKapoor7#4032
 
 ## Stats 📈:
 
