@@ -23,5 +23,5 @@ Hi, My name is Shresth Kapoor. I am a 3rd Year Student at SRM-IST pursuing my Ba
   </a>
   <br>
   <br>
- <img src='https://64.media.tumblr.com/9c47dbee217c7ee81ff966519eebc9fa/43c46c7c74863eec-0f/s500x750/c8b86a21efe26540de38b1b2546c70da952eeee9.gifv' width='750"'>
+ <img src='https://64.media.tumblr.com/9c47dbee217c7ee81ff966519eebc9fa/43c46c7c74863eec-0f/s500x750/c8b86a21efe26540de38b1b2546c70da952eeee9.gifv' width='650"'>
 </p>
