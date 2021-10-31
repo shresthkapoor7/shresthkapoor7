@@ -12,15 +12,14 @@ Hi, My name is Shresth Kapoor. I am a 3rd Year Student at SRM-IST pursuing my Ba
 - 📫 [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/)
 - 💬 Discord: ShresthKapoor7#4032
 
-## Stats 📈:
+## Languages, Tools & Framework
+- Flutter
+- C and C++
+- Python
+- Firebase
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=shresthkapoor7&show_icons=true&theme=vision-friendly-dark&background=0d1117" height="150">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthkapoor7&layout=compact&theme=vision-friendly-dark&background=0d1117"  height="150">
-  </a>
-  <br>
-  <br>
-</p>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
+![Flutter](https://img.shields.io/badge/-Flutter-darkblue?style=flat-square&logo=Flutter)
