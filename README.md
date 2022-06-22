@@ -2,11 +2,10 @@
 <h2>Hey there! </h2>
 
 
-Hi, My name is Shresth Kapoor. I am a 3rd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 years old, developing android apps using Flutter.
+Hi, My name is Shresth Kapoor. I am a Final Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering.
 
-- 👨‍💻 [HackerRank](https://www.hackerrank.com/RA1911003010220)
 - 💻 [LeetCode](https://leetcode.com/shresthkapoor7/)
-- ⌨️ [GeekForGeeks](https://auth.geeksforgeeks.org/user/shresthkapoor7/profile)
+- 👨‍💻 [HackerRank](https://www.hackerrank.com/RA1911003010220)
 
 ## Connect With Me 🤝🏼 
 - 📫 [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/)
@@ -17,9 +16,3 @@ Hi, My name is Shresth Kapoor. I am a 3rd Year Student at SRM-IST pursuing my Ba
 - C and C++
 - Python
 - Firebase
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-darkblue?style=flat-square&logo=Flutter)
