@@ -4,7 +4,7 @@
   Final Year Computer Science Engineering Student at SRM institute of Science and Technology. Practicing DSA while also working on cross-platform applications with flutter. I have recently gained an interest in building projects related to IOT, NLP and devops. Feel free to reach me out on LinkedIn  </p>
 
 ## Links 
-🏎️ [Portfolio](https://shresthkapoor7-5b90e.web.app/) &nbsp;🖇️ [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/) &nbsp;𐂷 [Hashnode](https://shresthkapoor7.hashnode.dev/) &nbsp;💻 [LeetCode](https://leetcode.com/shresthkapoor7/) &nbsp;👨‍💻 [HackerRank](https://www.hackerrank.com/RA1911003010220)
+🏎️ [Portfolio](https://shresthkapoor7-5b90e.web.app/) &nbsp;🖇️ [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/) &nbsp;𐂷 [Hashnode](https://shresthkapoor7.hashnode.dev/) &nbsp;💻 [LeetCode](https://leetcode.com/shresthkapoor7/) &nbsp;
 
 
 
