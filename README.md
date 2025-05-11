@@ -1,16 +1,19 @@
 ## Hey there
-<p>
-  <img align="right" src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" width="400&quot;" data-canonical-src="https://64.media.tumblr.com/a0d581666d26dd9c66bf8ed395cba948/tumblr_my2uisrvYm1r60ay5o1_500.gifv" style="max-width: 80%;">
-As an MS Computer Science student at NYU Tandon School of Engineering, I am passionate about building innovative projects that integrate the latest technologies. My current interests lie in leveraging the technologies I have learned, such as Flutter and Angular, and enhancing them with AI capabilities.
+I'm Shresth, a CS grad student at NYU Tandon trying to survive with Flutter, Angular, and the occasional AI sprinkle.
 
-Before embarking on my master’s journey, I worked at [TalentTitan](https://talenttitan.com/), where I primarily utilized Angular and Spring Boot to develop robust applications. You can explore some of my work from that time on my [GitHub profile](https://github.com/ShresthKapoor8) (Repos are private).
+Before this, I was building scalable apps at [TalentTitan](https://talenttitan.com) using Angular and Spring Boot. Some of my work lives [here](https://github.com/ShresthKapoor8) (private, because corporate 🙃).
 
-During my undergraduate studies in Computer Science Engineering at SRM Institute of Science and Technology, I honed my skills in software development and problem-solving. I am constantly exploring new domains and working on projects that merge cutting-edge AI, software engineering, and user-centric design.
+Did my undergrad at SRM IST, where I built cool stuff, solved real problems, and stared at terminals way too long. Now it’s just classes, caffeine, and half-finished ideas.
 
-If you’re looking for collaboration or have opportunities in areas like software development, AI, or cross-platform application development, feel free to connect with me on LinkedIn! Let’s create something impactful together. </p>
+If corporate-flavored compliments and buttoned-up buzzwords are your thing, stalk away on [LinkedIn](https://linkedin.com/in/shresthkapoor7)—I clean up nice there. And thanks to Premium, I’ll know you stopped by... right next to my ex in profile views. 👀
 
 ## Links 
-🏎️ [Portfolio](https://shresthkapoor7.github.io/portfolio/) &nbsp;🖇️ [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/) &nbsp;𐂷 [Hashnode](https://shresthkapoor7.hashnode.dev/) &nbsp;💻 [LeetCode](https://leetcode.com/shresthkapoor7/) &nbsp; #️⃣ [Twitter](https://x.com/shresthkapoor7) &nbsp;
+🏎️ [Portfolio](https://shresthkapoor7.github.io/portfolio/) &nbsp; 𐂷 [Hashnode](https://shresthkapoor7.hashnode.dev/) &nbsp; 💻 [LeetCode](https://leetcode.com/shresthkapoor7/) &nbsp; #️⃣ [Twitter](https://x.com/shresthkapoor7)  
 
+If none of this works out, you’ll probably find me dropping content on OnlyFans next.
 
+## Me Touching Grass  
 
+<p align="center">
+  <img src="https://scriptmag.com/uploads/MjAxMjYxODQ3NzgzOTQxNjMz/touchinggrass-canva.png" width="500" alt="Me touching grass" />
+</p>
