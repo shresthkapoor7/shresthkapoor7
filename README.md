@@ -10,7 +10,7 @@
 - can stare at terminals looking like → for hours    
 - can reverse a linked list. [leetcode](https://leetcode.com/shresthkapoor7/)
 - if i didn’t cold email you, your startup is probably ngmi.  
-- shitposting full-time at [twitter](https://twitter.com/your-link) (yeah idc, not gonna call it x)  
+- shitposting full-time at [twitter](https://x.com/shresthkapoor7) (yeah idc, not gonna call it x)  
 - 🤏 this close to launching onlynerds, even have the [design](https://www.youtube.com/watch?v=xvFZjo5PgG0) ready
 - corporate jargon at [linkedin](https://www.linkedin.com/in/shresth-kapoor-7skp/). got premium. your view's next to my ex.
 - pay expectations: 2 energy drinks/day. celsius >>>> white monster
