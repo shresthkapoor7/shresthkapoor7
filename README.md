@@ -12,8 +12,8 @@
 - if i didn’t cold email you, your startup is probably ngmi.  
 - shitposting full-time at [twitter](https://twitter.com/your-link) (yeah idc, not gonna call it x)  
 - 🤏 this close to launching onlynerds, even have the [design](https://www.youtube.com/watch?v=xvFZjo5PgG0) ready
-- corporate jargon at [linkedin](https://www.linkedin.com/in/shresth-kapoor-7skp/). got premium, so your view is sitting right next to my ex  
-- pay expectations: 2 energy drinks/day. prefer celsius but will settle for white monster
+- corporate jargon at [linkedin](https://www.linkedin.com/in/shresth-kapoor-7skp/). got premium. your view's next to my ex.
+- pay expectations: 2 energy drinks/day. celsius >>>> white monster
 
 </div>
 
