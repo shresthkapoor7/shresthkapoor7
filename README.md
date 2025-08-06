@@ -1,7 +1,7 @@
-- Computer Science grad student at [NYU](https://www.nyu.edu/)  
-- Previously Software Engineer at [TalentTitan](https://talenttitan.com)  
-- Enjoy working in terminals and solving systems-level problems  
-- Practicing data structures and algorithms on [LeetCode](https://leetcode.com/shresthkapoor7/)  
-- Currently building [strandschat.com](https://strandschat.com), focused on better UX for LLMs  
-- Occasionally post thoughts at [Twitter](https://x.com/shresthkapoor7)  
-- Professional profile on [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/)  
+- cs [@nyu](https://www.nyu.edu/)  
+- ex swe [@talenttitan](https://talenttitan.com)
+- can reverse a linked list [leetcode](https://leetcode.com/shresthkapoor7/)
+- recruiter friendly version on [linkedin](https://www.linkedin.com/in/shresth-kapoor-7skp/)
+- to look at my projects [shresth.work](https://www.shresth.work/)
+- documenting what i learn [shresth.space](https://www.shresth.space/)
+- building [strands](https://strandschat.com) to fix context problem with llms - updates on [twitter](https://x.com/shresthkapoor7)
