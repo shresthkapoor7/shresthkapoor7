@@ -1,6 +1,5 @@
 - cs [@nyu](https://www.nyu.edu/)  
 - ex swe [@talenttitan](https://talenttitan.com)
-- can reverse a linked list [leetcode](https://leetcode.com/shresthkapoor7/)
 - recruiter friendly version on [linkedin](https://www.linkedin.com/in/shresth-kapoor-7skp/)
 - documenting what i learn [shresth.space](https://www.shresth.space/)
 - building [strands](https://strandschat.com) to fix context problem with llms - updates on [twitter](https://x.com/shresthkapoor7)
