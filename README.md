@@ -1,5 +1,5 @@
-- cs [@nyu](https://www.nyu.edu/)  
-- ex swe [@talenttitan](https://talenttitan.com)
-- recruiter friendly version on [linkedin](https://www.linkedin.com/in/shresth-kapoor-7skp/)
-- documenting what i learn [shresth.space](https://www.shresth.space/)
-- building [strands](https://strandschat.com) to fix context problem with llms - updates on [twitter](https://x.com/shresthkapoor7)
+- Currently a CS student [@nyu](https://www.nyu.edu/)
+- Previously a Software Engineer at [@TalentTitan](https://talenttitan.com/)
+- Building AI agents with React, Python, and AWS
+- Writing what I learn about AI, systems, and data on [shresth.space](https://www.shresth.space/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/) | [Twitter](https://x.com/shresthkapoor7)
