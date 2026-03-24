@@ -1,5 +1,4 @@
 - Currently a CS student [@nyu](https://www.nyu.edu/)
 - Previously a Software Engineer at [@TalentTitan](https://talenttitan.com/)
-- Building AI agents with React, Python, and AWS
-- Writing what I learn about AI, systems, and data on [shresth.space](https://www.shresth.space/)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/) | [Twitter](https://x.com/shresthkapoor7)
+- Writing stuff at [shresth.space](https://www.shresth.space/)
+- !Connect with me on [LinkedIn](https://www.linkedin.com/in/shresth-kapoor-7skp/) | [Twitter](https://x.com/shresthkapoor7)
