@@ -8,7 +8,7 @@ CS @ NYU · Full-Stack & AI Systems · Previously SWE @ [TalentTitan](https://ta
 
 ### Things I've built
 
-**[Sediment](https://github.com/shresthkapoor7/sediment)** — Enter any paper or concept. Get the full intellectual ancestry rendered as an interactive timeline — the key ideas, the breakthroughs, the order they happened. Agent-powered, not a chat interface.
+**[Sediment](https://github.com/shresthkapoor7/sediment)** — Enter any paper or concept. Get the full intellectual ancestry rendered as an interactive timeline the key ideas, the breakthroughs, the order they happened. Agent-powered, not a chat interface.
 
 **[Hive](https://github.com/shresthkapoor7/hive3)** — Coordination layer for multiple Gemini CLI agents working the same repo simultaneously. Uses Gemini's hook system to enforce per-file write locks, inject shared context into each agent's system prompt, and stream a live web UI zero changes to gemini-cli required.
 
