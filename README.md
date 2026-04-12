@@ -14,12 +14,5 @@
 ⣿⣿⣿⣿⣿⠀⠸⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢹⣿⣷⣟⠩⣬⠲⣶⡝⣿⡏⣿⣿⢛⣿⣿⣿⠀⢠⡄⠉⠭⢐⠀⣝⢿⣿⣿    Dowsing   ▸  web nav · no api costs
 ⣿⣿⣿⣿⡏⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠈⢫⣿⢡⣲⣔⣿⡾⣻⣿⡿⠋⠀⣚⣻⣿⣷⣄⣼⡇⠀⠀⢸⣷⣿⣷⣮⢭    Dia       ▸  agentic research · rag
 ⡟⠉⠀⢻⣿⡄⠀⢹⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣾⠉⢕⣫⣾⣿⢡⣿⡿⣡⣶⣶⣶⣾⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣟⣵⣿    -------
-⣿⡀⠀⣶⣿⣿⣦⣄⠛⢿⣿⣾⣿⣿⣿⣿⡟⣿⣟⣵⣿⣷⣬⣟⣿⣿⣣⣾⡟⣴⣿⣿⣿⣿⣿⢿⣿⣿⡿⢳⠀⣾⣿⣼⣿⣿⣿⡿    learning vim · one keybind at a time
+⣿⡀⠀⣶⣿⣿⣦⣄⠛⢿⣿⣾⣿⣿⣿⣿⡟⣿⣟⣵⣿⣷⣬⣟⣿⣿⣣⣾⡟⣴⣿⣿⣿⣿⣿⢿⣿⣿⡿⢳⠀⣾⣿⣼⣿⣿⣿⡿    building agents · being built by them
 ```
-
-
-<p align="center">
-  <a href="https://shresth.space">shresth.space</a> ·
-  <a href="https://linkedin.com/in/shresth-kapoor-7skp/">linkedin</a> ·
-  <a href="https://x.com/shresthkapoor7">twitter</a>
-</p>
