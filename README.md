@@ -1,38 +1,5 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="shresth kapoor — building tools for ai agents" width="100%" />
-</p>
+<p align="center"><img src="./assets/header.svg" width="100%" alt="Shresth Kapoor: building tools for smarter ai agents. cs @ nyu."></p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <code>01</code> <b>sediment</b> · <a href="https://www.sediment-ai.com/">sediment-ai.com</a><br/>
-      <a href="https://github.com/shresthkapoor7/sediment"><img src="./assets/sediment.jpg" alt="sediment canvas" /></a><br/>
-      <sub>a canvas for research, with an agent beside you</sub>
-    </td>
-    <td width="50%" valign="top">
-      <code>02</code> <b>rulesweeper</b> · ieee cog 2026<br/>
-      <a href="https://github.com/shresthkapoor7/rulesweeper"><img src="./assets/rulesweeper-site.png" alt="rulesweeper" /></a><br/>
-      <sub>llm-guided evolution of minesweeper mechanics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <code>03</code> <b>muzzle</b> · macos<br/>
-      <a href="https://github.com/shresthkapoor7/muzzle"><img src="./assets/muzzle.png" alt="muzzle" /></a><br/>
-      <sub>native menu-bar website blocker with a privileged daemon</sub>
-    </td>
-    <td width="50%" valign="top">
-      <code>04</code> <b>space</b> · <a href="https://shresth.space">shresth.space</a><br/>
-      <a href="https://shresth.space"><img src="./assets/space-site.png" alt="shresth.space" /></a><br/>
-      <sub>portfolio, research and writing</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://www.sediment-ai.com/"><img src="./assets/tile-sediment.svg" width="50%" alt="sediment: a canvas for research. sediment-ai.com"></a><a href="https://rulesweeper.vercel.app/"><img src="./assets/tile-rulesweeper.svg" width="50%" alt="rulesweeper: evolving minesweeper rules, ieee cog 2026"></a><a href="https://getmuzzle.vercel.app/"><img src="./assets/tile-muzzle.svg" width="50%" alt="muzzle: a macos website blocker that stays on"></a><a href="https://shresth.space"><img src="./assets/tile-space.svg" width="50%" alt="shresth.space"></a>
 
-<p align="center">
-  <a href="https://shresth.space"><code>shresth.space ↗</code></a>
-  &nbsp;
-  <a href="https://x.com/rested_7"><code>x ↗</code></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shresth-kapoor-7skp"><code>linkedin ↗</code></a>
-</p>
+<p align="center"><a href="https://shresth.space"><img src="./assets/chip-site.svg" height="36" alt="shresth.space"></a> <a href="https://x.com/rested_7"><img src="./assets/chip-x.svg" height="36" alt="@rested_7 on X"></a> <a href="https://www.linkedin.com/in/shresth-kapoor-7skp"><img src="./assets/chip-linkedin.svg" height="36" alt="LinkedIn"></a></p>
